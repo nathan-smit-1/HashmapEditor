@@ -8,4 +8,4 @@ mvn clean install
 
 Example use:
 
-java -jar HashmapEditor-1.0-SNAPSHOT.jar -offset_path "/you/path/offsets.dat" -scn 745647234925
+java -jar HashmapEditor-1.0-SNAPSHOT.jar -offset_path "/your/path/offsets.dat" -scn 745647234925
