@@ -1,6 +1,6 @@
 # HashmapEditor
 
-Simple utility to try to adjust the offsets.dat 
+Simple utility to try to adjust the offsets.dat created by Debezium 
 
 To compile:
 
